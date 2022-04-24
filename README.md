@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+- 🔭 Working on Machine Learning
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ixiondbz)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Working on Machine Learning
 
 <!-- **Ixiondbz/Ixiondbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
