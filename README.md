@@ -1,2 +1,2 @@
-- 🌱 currently learning front-end development using angular, tailwindcss
+- 🌱 currently learning front-end development 
 <!-- - 📕 I’m currently reading  -->
